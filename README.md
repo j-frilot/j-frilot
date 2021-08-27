@@ -10,7 +10,7 @@
 
 🔭 I’m currently working on freelancing projects.
 
-🌱 I’m currently learning typescript.
+🌱 I’m currently learning typescript, vue/vuex, and chess.
 
 💬 Talk to me about anything javascript related or freelancing.
 
