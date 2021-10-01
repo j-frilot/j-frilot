@@ -8,11 +8,11 @@
 
 ## About Me
 
-🔭 I’m currently working on freelancing projects.
+🔭 I’m currently working on building a time and task management tracker that will help me be more producctive at work.
 
-🌱 I’m currently learning typescript, vue/vuex, and chess.
+🌱 I’m currently learning vue/vuex and chess.
 
-💬 Talk to me about anything javascript related or freelancing.
+💬 Talk to me about anything javascript related or chemistry.
 
 ## Connect with me!
 
